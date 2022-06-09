@@ -1,2 +1,2 @@
-# SCC0222
-SCC0222 - Laboratório de Introdução à Ciência da Computação I
+# SCC0221
+SCC0221 - Introduction to Computer Science I
